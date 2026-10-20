@@ -1,0 +1,6 @@
+{
+  "name": "The Wellness Warriors Gym Management System",
+  "description": "Internal gym management system for The Wellness Warriors Gym in Jalpaiguri, West Bengal. Member management, fees, attendance, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
